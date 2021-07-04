@@ -1,8 +1,8 @@
-package structural.bridgeSon.muzikCalar;
+package structural.bridge.bridgeSon.muzikCalar;
 
-import structural.bridgeSon.Muzik;
+import structural.bridge.bridgeSon.Muzik;
 
-public class Fizy implements MuzikCalar{
+public class Spotify implements MuzikCalar{
     @Override
     public String muzikCal(Muzik muzik) {
         System.out.println("Fizy "+muzik+ " sarkisini caliyor.");

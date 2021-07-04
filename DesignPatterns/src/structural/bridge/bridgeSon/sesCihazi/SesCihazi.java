@@ -1,4 +1,4 @@
-package structural.bridgeSon.sesCihazi;
+package structural.bridge.bridgeSon.sesCihazi;
 
 public interface SesCihazi {
 

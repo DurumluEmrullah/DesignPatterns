@@ -1,8 +1,8 @@
-package structural.bridgeSon.cihaz;
+package structural.bridge.bridgeSon.cihaz;
 
-import structural.bridgeSon.Muzik;
-import structural.bridgeSon.muzikCalar.Fizy;
-import structural.bridgeSon.sesCihazi.Kulaklik;
+import structural.bridge.bridgeSon.Muzik;
+import structural.bridge.bridgeSon.muzikCalar.Fizy;
+import structural.bridge.bridgeSon.sesCihazi.Kulaklik;
 
 public class BilgisayarKulaklikVeFizy extends MuzikCalabilenBilgisayar{
 

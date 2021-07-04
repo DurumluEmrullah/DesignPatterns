@@ -1,10 +1,8 @@
-package structural.bridgeSon.cihaz;
+package structural.bridge.bridgeSon.cihaz;
 
-import structural.bridgeSon.Muzik;
-import structural.bridgeSon.muzikCalar.MuzikCalar;
-import structural.bridgeSon.muzikCalar.Spotify;
-import structural.bridgeSon.sesCihazi.Hoparlor;
-import structural.bridgeSon.sesCihazi.SesCihazi;
+import structural.bridge.bridgeSon.Muzik;
+import structural.bridge.bridgeSon.muzikCalar.MuzikCalar;
+import structural.bridge.bridgeSon.sesCihazi.SesCihazi;
 
 public class Telefon extends MuzikCalabilenBilgisayar{
     public Telefon(SesCihazi sesCihazi, MuzikCalar muzikCalar) {

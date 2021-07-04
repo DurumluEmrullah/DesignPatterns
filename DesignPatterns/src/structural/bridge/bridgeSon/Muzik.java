@@ -1,4 +1,4 @@
-package structural.bridgeSon;
+package structural.bridge.bridgeSon;
 
 public class Muzik {
     private String adi;

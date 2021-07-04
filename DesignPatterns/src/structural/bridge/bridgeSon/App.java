@@ -1,12 +1,12 @@
-package structural.bridgeSon;
+package structural.bridge.bridgeSon;
 
 
-import structural.bridgeSon.cihaz.BilgisayarKulaklikVeFizy;
-import structural.bridgeSon.cihaz.Telefon;
-import structural.bridgeSon.muzikCalar.Fizy;
-import structural.bridgeSon.muzikCalar.Spotify;
-import structural.bridgeSon.sesCihazi.Hoparlor;
-import structural.bridgeSon.sesCihazi.Kulaklik;
+import structural.bridge.bridgeSon.cihaz.BilgisayarKulaklikVeFizy;
+import structural.bridge.bridgeSon.cihaz.Telefon;
+import structural.bridge.bridgeSon.muzikCalar.Fizy;
+import structural.bridge.bridgeSon.muzikCalar.Spotify;
+import structural.bridge.bridgeSon.sesCihazi.Hoparlor;
+import structural.bridge.bridgeSon.sesCihazi.Kulaklik;
 
 /**
  * @author Emrullah Durumlu

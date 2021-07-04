@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526c8b87-d2bf-4735-b248-9f3201f8ceda" name="Default Changelist" comment="first init">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DesignPatterns.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/Note8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/Note8Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/S8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/S8Factory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/Telefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/TelefonBayisi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/abstractFactory/TelefonFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/builder/Emlakci.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/builder/EmlakciV2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/builder/Ev.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/builder/EvBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/factory/Note8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/factory/S8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/factory/Telefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/factory/TelefonBayi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/factory/TelefonFabrikası.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/prototype/App1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/prototype/Belge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/prototype/BelgeTuru.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/prototype/GenelEntityService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/prototype/Kategori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/singleton/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/creational/singleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/BuzDolabi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/ElektrikliEvAletleri.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/IphoneTelefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/Priz.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/Telefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/TelefonEEAAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/adapter/Utu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridge/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridge/Bilgisayar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridge/Hoparlor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridge/Muzik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridge/Spotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/Muzik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/cihaz/BilgisayarKulaklikVeFizy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/cihaz/MuzikCalabilenBilgisayar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/cihaz/Telefon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/muzikCalar/Fizy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/muzikCalar/MuzikCalar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/muzikCalar/Spotify.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/sesCihazi/Hoparlor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/sesCihazi/Kulaklik.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/bridgeSon/sesCihazi/SesCihazi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeIlk/App1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeIlk/Kumanya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeIlk/Paket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeIlk/Sepet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeIlk/Urun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/App2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/Fiyatlanabilir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/HesaplamaUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/Kumanya.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/Paket.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/Sepet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Singelton/structural/composite/compositeSon/Urun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/Note8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/Note8Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/S8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/S8Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/Telefon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/TelefonBayisi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/abstractFactory/TelefonFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Emlakci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/EmlakciV2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/Ev.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/builder/EvBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/Note8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/S8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/Telefon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/TelefonBayi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/factory/TelefonFabrikası.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/prototype/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/prototype/Belge.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/prototype/BelgeTuru.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/prototype/GenelEntityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/prototype/Kategori.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/creational/singleton/Singleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/BuzDolabi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/ElektrikliEvAletleri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/IphoneTelefon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/Priz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/Telefon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/TelefonEEAAdapter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/adapter/Utu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridge/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridge/Bilgisayar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridge/Hoparlor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridge/Muzik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridge/Spotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/Muzik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/cihaz/BilgisayarKulaklikVeFizy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/cihaz/MuzikCalabilenBilgisayar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/cihaz/Telefon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/muzikCalar/Fizy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/muzikCalar/MuzikCalar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/muzikCalar/Spotify.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/sesCihazi/Hoparlor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/sesCihazi/Kulaklik.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/bridgeSon/sesCihazi/SesCihazi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeIlk/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeIlk/Kumanya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeIlk/Paket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeIlk/Sepet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeIlk/Urun.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/Fiyatlanabilir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/HesaplamaUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/Kumanya.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/Paket.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/Sepet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/structural/composite/compositeSon/Urun.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1univ92gvr1wIrqOSLTyJJB31Bv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DesignPatterns" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\EmrullahD\Desktop\DesignPatternDemo\Singleton\src\AbstractFactory" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="structural.bridgeSon" />
+      <recent name="Factory" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App2">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.bridgeSon.App" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.bridgeSon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.bridge.App" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.composite.compositeIlk.App1" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.composite.compositeIlk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.composite.compositeSon.App2" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.composite.compositeSon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structural.adapter.Test" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="DesignPatterns" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="DesignPatterns" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App1 (1)" />
+        <item itemvalue="Application.App (1)" />
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526c8b87-d2bf-4735-b248-9f3201f8ceda" name="Default Changelist" comment="" />
+      <created>1625307983750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625307983750</updated>
+      <workItem from="1625308074553" duration="1614000" />
+      <workItem from="1625309763929" duration="4808000" />
+      <workItem from="1625383218049" duration="16601000" />
+    </task>
+    <task id="LOCAL-00001" summary="first init">
+      <created>1625433158981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625433158982</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first init" />
+    <option name="LAST_COMMIT_MESSAGE" value="first init" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/structural/composite/compositeSon/HesaplamaUtil.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/structural/composite/compositeSon/HesaplamaUtil.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
